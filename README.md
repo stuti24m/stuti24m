@@ -1,4 +1,4 @@
-**Stuti Mittra**
+#**Stuti Mittra**
 
 ### Hey there 👋
 I'm a data analyst and a technical content writer💻 who loves developing interesting things, building community and is a geek forever ❤.
@@ -10,6 +10,8 @@ I'm a data analyst and a technical content writer💻 who loves developing inter
 - 📫 How to reach me: stuti24m@gmail.com
 - 😄 Pronouns: She/Her✨
 - ⚡ Fun fact: I only speak in Python and Memes ;)
+
+
 
 
 ⭐ From stuti24m 
