@@ -1,5 +1,18 @@
 ### Hey there 👋
-   
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/stuti-mittra-577160162/"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/stuti24m"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/MittraStuti"
     
 
 <!--
