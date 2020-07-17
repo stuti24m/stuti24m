@@ -13,5 +13,4 @@ I'm a data analyst and a technical content writer💻 who loves developing inter
 
 
 
-
-   ⭐ From <a href ="https://github.com/stuti24m" > stuti24m </a>
+⭐ From <a href ="https://github.com/stuti24m" > stuti24m </a>
