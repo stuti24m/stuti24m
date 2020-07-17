@@ -1,5 +1,7 @@
+**Stuti Mittra**
+
 ### Hey there 👋
-I'm Stuti Mittra! I'm a data analyst and a technical content writer💻 who loves developing interesting things, building community and is a geek forever ❤.
+I'm a data analyst and a technical content writer💻 who loves developing interesting things, building community and is a geek forever ❤.
 
 
 - 🔭 I’m currently working on my Personal Blog page
