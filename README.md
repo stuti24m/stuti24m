@@ -1,17 +1,11 @@
 ### Hey there 👋
+I'm Stuti Mittra, 
 
 
-<!--
-**stuti24m/stuti24m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Personal Blog page
+- 🌱 I’m currently learning deployment of machine learning models 
+- 💬 Ask me about anything, I am happy to help :)
+- 📫 How to reach me: stuti24m@gmail.com
+- 😄 Pronouns: She/Her✨
+- ⚡ Fun fact: I only speak in Python and Memes ;)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  c
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
