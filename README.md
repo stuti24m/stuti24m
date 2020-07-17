@@ -1,5 +1,5 @@
 ### Hey there 👋
-    https://www.linkedin.com/in/stuti-mittra-577160162/  https://twitter.com/MittraStuti
+   
     
 
 <!--
