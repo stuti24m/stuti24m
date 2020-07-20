@@ -14,8 +14,6 @@ I'm a data analyst and a technical content writer💻 who loves developing inter
   - ⚡ Fun fact: I only speak in Python and Memes ;)
   
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/stuti24m/github-readme-stats)
-
-
+  
 
 ⭐ From <a href ="https://github.com/stuti24m" > stuti24m </a>
