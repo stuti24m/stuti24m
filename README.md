@@ -14,7 +14,7 @@ I'm a data analyst and a technical content writer💻 who loves developing inter
   - ⚡ Fun fact: I only speak in Python and Memes ;)
   
   
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stuti24m&show_icons=true&theme=radical)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stuti24m&show_icons=true&theme=tokyonight)
   
 
 ⭐ From <a href ="https://github.com/stuti24m" > stuti24m </a>
