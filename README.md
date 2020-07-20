@@ -1,6 +1,5 @@
 # Stuti Mittra
-http://github.com - automatic!
-[GitHub](http://github.com)
+
 ### Hey there 👋
 I'm a data analyst and a technical content writer💻 who loves developing interesting things, building community and is a geek forever ❤.
 
