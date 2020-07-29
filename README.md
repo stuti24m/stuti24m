@@ -6,7 +6,7 @@ I'm a data analyst and a technical content writer💻 who loves developing inter
 
 
 
-  - 🔭 I’m currently working on my Personal Blog page
+  - 🔭 I’m currently working on my SIH Model
   - 🌱 I’m currently learning SQLalchemy
   - 💬 Ask me about anything, I am happy to help :)
   - 📫 How to reach me: stuti24m@gmail.com
