@@ -1,14 +1,14 @@
 # Stuti Mittra
 
 ### Hey there 👋
-I'm a data analyst and a technical content writer💻 who loves developing interesting things, building community and is a geek forever ❤
+I'm a final year CS Undergrad, currently interning at Celebal Technologies as a Cloud Developer. I love developing interesting things, building community and I'm a geek forever ❤
 
 
 
 
   - 🔭 I’m currently working on my personal Blog Page
-  - 🌱 I’m currently learning SQLalchemy
-  - 💬 Ask me about anything, I am happy to help :)
+  - 🌱 I’m currently learning Azure pipelines and it's functioning
+  - 💬 Ask me about anything, I am willing to help on stuff I know.
   - 📫 How to reach me: stuti24m@gmail.com
   - 😄 Pronouns: She/Her✨
   - ⚡ Fun fact: I only speak in Python and Memes ;)
