@@ -1,7 +1,7 @@
 # Stuti Mittra
 
 ### Hey there 👋
-I'm a final year CS Undergrad, currently interning at Celebal Technologies as a Cloud Developer. I love developing interesting things, building community and I'm a geek forever ❤
+I'm a final year CS Undergrad, currently interning at Celebal Technologies as a Cloud Developer. I love developing interesting things, building community, read and learn everyday ❤
 
 
 
