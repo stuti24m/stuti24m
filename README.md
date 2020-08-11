@@ -7,7 +7,7 @@ I'm a final year CS Undergrad, currently interning at <a href ="http://celebalte
 
 
   - 🔭 I’m currently working on my personal Blog Page
-  - 🌱 I’m currently learning Azure pipelines and it's functioning
+  - 🌱 I’m currently learning CI/CD pipelines on Microsoft Azure.
   - 💬 Ask me about anything, I am willing to help on stuff I know.
   - 📫 How to reach me: stutimittra@outlook.com
   - 😄 Pronouns: She/Her✨
