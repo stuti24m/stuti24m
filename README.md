@@ -12,7 +12,7 @@ I'm a final year CS Undergrad, currently interning at <a href ="http://celebalte
   - 💬 Ask me about anything, I am willing to help on stuff I know.
   - 📫 How to reach me: stutimittra@outlook.com
   - 😄 Pronouns: She/Her✨
-  - ⚡ Fun fact: I only speak in Python and Memes ;)
+  - ⚡ Fun fact: I don't know any :/
   
   
   
