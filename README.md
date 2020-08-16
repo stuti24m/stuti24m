@@ -1,7 +1,7 @@
 # Stuti Mittra
 
 ### Hey there 👋
-I'm a final year CS Undergrad, currently interning at <a href ="http://celebaltech.com/" > Celebal Technologies </a>  as a Cloud Developer. I love developing interesting things, building community, reading and learning everyday ❤
+I'm a final year CS Undergrad, I'm doing internship at <a href ="http://celebaltech.com/" > Celebal Technologies </a>  as a Cloud Developer. I love to use modern technologies to build projects that look great, are fluid and functions correctly. <br>I can make your data do the storytelling ❤</p>
 
 ![](https://komarev.com/ghpvc/?username=stuti24m&color=blue)
 
