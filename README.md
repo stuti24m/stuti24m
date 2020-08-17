@@ -18,7 +18,7 @@ I'm a final year CS Undergrad, I'm doing internship at <a href ="http://celebalt
   
   
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stuti24m&show_icons=true&theme=tokyonight)
+  ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stuti24m&show_icons=true&theme=tokyonight)
   
   
 
