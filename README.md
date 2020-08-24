@@ -12,7 +12,7 @@ I'm a final year CS Undergrad, doing my internship at <a href ="http://celebalte
   - 💬 Ask me about anything, I am willing to help on stuff I know.
   - 📫 How to reach me: stutimittra@outlook.com
   - 😄 Pronouns: She/Her✨
-  - ⚡ Fun fact: When you search <b>recursion</b> on Google, you'll get - <br>   Did you mean: <i><b>recursion</b></i> (ps: an inside joke) ;)
+  - ⚡ Fun fact: When you search <b>recursion</b> on Google, you'll get - <br>   Did you mean: <i><b>recursion</b></i> (PS: an inside joke) ;)
   
   
   
