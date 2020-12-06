@@ -7,7 +7,7 @@ I'm a final year CS Undergrad, doing my internship at <a href ="http://celebalte
 
 
 
-  - 🔭 I’m currently working on my Portfolio and blog page.
+  - 🔭 I’m currently working on my blog page.
   - 🌱 I’m currently learning DC Migration on Microsoft Azure.
   - 💬 Ask me about anything, I am willing to help on stuff I know.
   - 📫 How to reach me: stutimittra@outlook.com
