@@ -1,7 +1,7 @@
 # <a href = https://stuti24m.github.io/portfolio-v1/> Stuti Mittra</a> 
 
 ### Hey there 👋
-I'm a final year CS Undergrad, doing my internship at <a href ="http://celebaltech.com/" > Celebal Technologies </a>  as a Cloud Engineer. I love using modern technologies to build stuff that look great, are fluid and functions correctly. </p>
+I'm a final year CS Undergrad, doing my internship at <a href ="http://celebaltech.com/" > Celebal Technologies </a>  as a Cloud Engineer. I love using modern technologies to build stuff that looks great, are fluid and functions correctly. </p>
 
 ![](https://komarev.com/ghpvc/?username=stuti24m&color=blue)
 
